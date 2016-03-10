@@ -2,12 +2,6 @@
     "name": "lafourchette/guzzle-locale-plugin",
     "description": "Guzzle plugin to set locale on query",
     "license": "MIT",
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.lafourchette.com"
-        }
-    ],
     "require": {
         "guzzle/guzzle": "~3.7"
     },
