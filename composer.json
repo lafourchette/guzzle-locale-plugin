@@ -1,13 +1,7 @@
 {
-    "name": "lafourchette/payment-client",
-    "description": "Client for the payment API",
+    "name": "lafourchette/guzzle-locale-plugin",
+    "description": "Guzzle plugin to set locale on query",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Antoine Hérault",
-            "email": "antoine.herault@vaconsulting.lu"
-        }
-    ],
     "require": {
         "guzzle/guzzle": "~3.7"
     },
